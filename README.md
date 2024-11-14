@@ -4,7 +4,7 @@
    - The Transformers movie series follows an ongoing battle between two factions of alien robots.
 2. **Harry Poter**
    - The Harry Potter movie series follows the journey of a young wizard, Harry Potter as he discovers his magical heritage and attends Hogwarts School of Witchcraft and Wizardry.
-3.**Karate Kid**
+3. **Karate Kid**
    - The Karate Kid movie follows the story of a young boy named Daniel LaRusso who moves to a new town and struggles with bullying.
 ## Series
 1. **Dragonball**
